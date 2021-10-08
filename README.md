@@ -1,5 +1,7 @@
 # #5 Angular Belgrade Meetup
 
+[![#5 Angular Belgrade Meetup](https://user-images.githubusercontent.com/17877290/136601875-31e1e595-2529-4750-b548-5c875d33f3c3.png)](https://youtu.be/Yzi3yolmruw)
+
 ## Predavanja
 
 ### [RxJS Marble Testiranje](./rxjs-marble-testiranje.pdf)
